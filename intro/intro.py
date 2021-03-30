@@ -15,7 +15,6 @@ def triple(num):
     return num * 3
 
 
-# print('hello world')
 # print(double(5))
 # print( "hello")
 # print(triple(8))
